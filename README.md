@@ -10,5 +10,5 @@ This repository contains basic MySQL practice assignments covering:
 - inner join & Outer Join 
 - JOINS and GROUP BY And many Others  
 
-These assignments were done as part of learning SQL fundamentals.
+
 
